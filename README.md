@@ -11,7 +11,7 @@ Welcome to the **GEC Vaishali Web Development Training** repository! This repo i
 
 **Abhishek Kumar**
 
-- **GitHub**: [abhishek23gecv](https://github.com/techx-aether)
+- **GitHub**: [techx-aether](https://github.com/techx-aether)
 - **LinkedIn**: [Abhishek Kumar](https://www.linkedin.com/in/abhishek-kumar-050577268/)
 - **Instagram**: [abhishek_7o1](https://instagram.com/abhishek_7o1)
 
