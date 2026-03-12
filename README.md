@@ -4,14 +4,14 @@ Welcome to the **GEC Vaishali Web Development Training** repository! This repo i
 
 - **Go to tasks branch for checking my all tasks**
    ,or
-- **Click here**: [Task-Manager Webpage](https://abhishek23gecv.github.io/GEC_Vaishali_WebD_Training/)
+- **Click here**: [Task-Manager Webpage](https://techx-aether.github.io/GEC_Vaishali_WebD_Training/)
 
 ---
 ## 👨‍💻 Author
 
 **Abhishek Kumar**
 
-- **GitHub**: [abhishek23gecv](https://github.com/abhishek23gecv)
+- **GitHub**: [abhishek23gecv](https://github.com/techx-aether)
 - **LinkedIn**: [Abhishek Kumar](https://www.linkedin.com/in/abhishek-kumar-050577268/)
 - **Instagram**: [abhishek_7o1](https://instagram.com/abhishek_7o1)
 
